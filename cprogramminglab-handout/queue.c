@@ -8,7 +8,7 @@
  * This program implements a queue supporting both FIFO and LIFO
  * operations:wq
  *
- *hi nick
+ *hi again nick
  * It uses a singly-linked list to represent the set of queue elements
  */
 
